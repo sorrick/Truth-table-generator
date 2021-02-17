@@ -1,4 +1,8 @@
-﻿using System;
+/*
+AUTHOR: Richard Soria
+DESCR:  Program that generates a truth table using binary bits
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
